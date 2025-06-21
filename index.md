@@ -26,7 +26,7 @@ SELECT Embarked, COUNT(*) AS PassengerCount FROM titanic GROUP BY Embarked ORDER
 - Most passengers boarded at Southampton.
 
 ## Challenges and Learnings
-I encountered challenges in importing data due to MySQL Workbench’s file-loading restrictions and overcame this by learning terminal import methods. Indexing and query optimization helped improve my understanding of SQL performance tuning.
+Indexing and query optimization helped improve my understanding of SQL performance tuning.
 
 ## About Me
 I am Pooja Mehra, an aspiring data analyst passionate about SQL, data storytelling, and uncovering actionable insights. My work focuses on delivering clear, business-relevant findings through structured analysis.
